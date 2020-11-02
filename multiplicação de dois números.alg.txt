@@ -1,0 +1,18 @@
+Algoritmo "Multiplicação de dois números"
+
+Var
+numero1, numero2, resultado: inteiro
+
+
+Inicio
+   escreva("Primeiro número:")
+   leia(numero1)
+   escreva("Segundo número:")
+   leia(numero2)
+   resultado <- numero1*numero2
+escreva("O resultado é:", resultado)
+
+
+
+ 
+Fimalgoritmo
